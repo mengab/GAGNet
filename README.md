@@ -8,3 +8,7 @@ The code was developed using Python 3.6 & PyTorch 0.4 & CUDA 8.0. There may be a
 ## Testing
 
 ## Training
+
+## Contact
+We are glad to hear if you have any suggestions and questions. 
+Please send email to xmengab@connect.ust.hk
