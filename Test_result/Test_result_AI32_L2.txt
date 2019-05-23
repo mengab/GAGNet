@@ -1,0 +1,93 @@
+psnr_pre_gt:34.7481 psnr_data_gt:33.2971  psnr_diff:1.4510 ssim_pre_gt:0.9087 ssim_data_gt:0.8986  ssim_diff:0.0100
+psnr_pre_gt:34.7486 psnr_data_gt:33.2806  psnr_diff:1.4681 ssim_pre_gt:0.9097 ssim_data_gt:0.8993  ssim_diff:0.0104
+psnr_pre_gt:34.7554 psnr_data_gt:33.2878  psnr_diff:1.4676 ssim_pre_gt:0.9096 ssim_data_gt:0.8996  ssim_diff:0.0100
+psnr_pre_gt:34.7563 psnr_data_gt:33.2652  psnr_diff:1.4911 ssim_pre_gt:0.9099 ssim_data_gt:0.8995  ssim_diff:0.0104
+psnr_pre_gt:34.7452 psnr_data_gt:33.2303  psnr_diff:1.5148 ssim_pre_gt:0.9099 ssim_data_gt:0.9000  ssim_diff:0.0099
+psnr_pre_gt:34.7745 psnr_data_gt:33.2815  psnr_diff:1.4930 ssim_pre_gt:0.9100 ssim_data_gt:0.8998  ssim_diff:0.0102
+psnr_pre_gt:34.7656 psnr_data_gt:33.2767  psnr_diff:1.4889 ssim_pre_gt:0.9103 ssim_data_gt:0.9001  ssim_diff:0.0102
+psnr_pre_gt:34.7543 psnr_data_gt:33.2586  psnr_diff:1.4956 ssim_pre_gt:0.9103 ssim_data_gt:0.9003  ssim_diff:0.0100
+psnr_pre_gt:34.7742 psnr_data_gt:33.2840  psnr_diff:1.4903 ssim_pre_gt:0.9105 ssim_data_gt:0.9004  ssim_diff:0.0102
+psnr_pre_gt:34.7392 psnr_data_gt:33.2348  psnr_diff:1.5044 ssim_pre_gt:0.9105 ssim_data_gt:0.9002  ssim_diff:0.0102
+psnr_pre_gt:34.7467 psnr_data_gt:33.2470  psnr_diff:1.4997 ssim_pre_gt:0.9109 ssim_data_gt:0.9005  ssim_diff:0.0104
+psnr_pre_gt:34.7504 psnr_data_gt:33.2654  psnr_diff:1.4850 ssim_pre_gt:0.9109 ssim_data_gt:0.9007  ssim_diff:0.0102
+psnr_pre_gt:34.7104 psnr_data_gt:33.2563  psnr_diff:1.4541 ssim_pre_gt:0.9108 ssim_data_gt:0.9008  ssim_diff:0.0100
+psnr_pre_gt:34.7434 psnr_data_gt:33.2176  psnr_diff:1.5258 ssim_pre_gt:0.9112 ssim_data_gt:0.9007  ssim_diff:0.0105
+psnr_pre_gt:34.7523 psnr_data_gt:33.2737  psnr_diff:1.4786 ssim_pre_gt:0.9107 ssim_data_gt:0.9008  ssim_diff:0.0100
+psnr_pre_gt:34.7146 psnr_data_gt:33.2586  psnr_diff:1.4560 ssim_pre_gt:0.9105 ssim_data_gt:0.9005  ssim_diff:0.0100
+psnr_pre_gt:34.7063 psnr_data_gt:33.2317  psnr_diff:1.4746 ssim_pre_gt:0.9105 ssim_data_gt:0.9004  ssim_diff:0.0101
+psnr_pre_gt:34.7184 psnr_data_gt:33.2344  psnr_diff:1.4840 ssim_pre_gt:0.9108 ssim_data_gt:0.9011  ssim_diff:0.0097
+psnr_pre_gt:34.7133 psnr_data_gt:33.2532  psnr_diff:1.4600 ssim_pre_gt:0.9112 ssim_data_gt:0.9014  ssim_diff:0.0099
+psnr_pre_gt:34.7248 psnr_data_gt:33.2062  psnr_diff:1.5186 ssim_pre_gt:0.9108 ssim_data_gt:0.9004  ssim_diff:0.0104
+ video_index: 0 psnr_pre_gt_ave:34.7421 psnr_data_gt_ave:33.2570  psnr_diff_ave:1.4851 ssim_pre_gt_ave:0.9104 ssim_data_gt_ave:0.9003 ssim_diff_ave:0.0101
+./Input_mask/label/BQ_Square_416_240
+
+psnr_pre_gt:36.8382 psnr_data_gt:35.5761  psnr_diff:1.2621 ssim_pre_gt:0.9250 ssim_data_gt:0.9095  ssim_diff:0.0155
+psnr_pre_gt:36.8524 psnr_data_gt:35.5648  psnr_diff:1.2876 ssim_pre_gt:0.9244 ssim_data_gt:0.9090  ssim_diff:0.0154
+psnr_pre_gt:36.8738 psnr_data_gt:35.5365  psnr_diff:1.3374 ssim_pre_gt:0.9243 ssim_data_gt:0.9079  ssim_diff:0.0164
+psnr_pre_gt:36.8765 psnr_data_gt:35.5431  psnr_diff:1.3334 ssim_pre_gt:0.9242 ssim_data_gt:0.9081  ssim_diff:0.0162
+psnr_pre_gt:36.8520 psnr_data_gt:35.5639  psnr_diff:1.2881 ssim_pre_gt:0.9234 ssim_data_gt:0.9083  ssim_diff:0.0150
+psnr_pre_gt:36.9128 psnr_data_gt:35.6454  psnr_diff:1.2674 ssim_pre_gt:0.9233 ssim_data_gt:0.9079  ssim_diff:0.0154
+psnr_pre_gt:36.8217 psnr_data_gt:35.6122  psnr_diff:1.2095 ssim_pre_gt:0.9219 ssim_data_gt:0.9075  ssim_diff:0.0143
+psnr_pre_gt:36.8664 psnr_data_gt:35.6468  psnr_diff:1.2196 ssim_pre_gt:0.9216 ssim_data_gt:0.9066  ssim_diff:0.0150
+psnr_pre_gt:36.8902 psnr_data_gt:35.6535  psnr_diff:1.2367 ssim_pre_gt:0.9217 ssim_data_gt:0.9060  ssim_diff:0.0157
+psnr_pre_gt:36.9982 psnr_data_gt:35.7541  psnr_diff:1.2441 ssim_pre_gt:0.9230 ssim_data_gt:0.9075  ssim_diff:0.0155
+psnr_pre_gt:36.9716 psnr_data_gt:35.6988  psnr_diff:1.2729 ssim_pre_gt:0.9223 ssim_data_gt:0.9064  ssim_diff:0.0159
+psnr_pre_gt:36.9732 psnr_data_gt:35.7536  psnr_diff:1.2195 ssim_pre_gt:0.9226 ssim_data_gt:0.9081  ssim_diff:0.0145
+psnr_pre_gt:36.9478 psnr_data_gt:35.6888  psnr_diff:1.2589 ssim_pre_gt:0.9225 ssim_data_gt:0.9076  ssim_diff:0.0149
+psnr_pre_gt:36.9377 psnr_data_gt:35.7020  psnr_diff:1.2356 ssim_pre_gt:0.9226 ssim_data_gt:0.9079  ssim_diff:0.0148
+psnr_pre_gt:37.0193 psnr_data_gt:35.7037  psnr_diff:1.3155 ssim_pre_gt:0.9240 ssim_data_gt:0.9083  ssim_diff:0.0158
+psnr_pre_gt:36.9455 psnr_data_gt:35.7056  psnr_diff:1.2399 ssim_pre_gt:0.9233 ssim_data_gt:0.9080  ssim_diff:0.0153
+psnr_pre_gt:36.9487 psnr_data_gt:35.7344  psnr_diff:1.2143 ssim_pre_gt:0.9230 ssim_data_gt:0.9080  ssim_diff:0.0150
+psnr_pre_gt:36.9094 psnr_data_gt:35.6740  psnr_diff:1.2354 ssim_pre_gt:0.9232 ssim_data_gt:0.9076  ssim_diff:0.0157
+psnr_pre_gt:36.8874 psnr_data_gt:35.7134  psnr_diff:1.1740 ssim_pre_gt:0.9222 ssim_data_gt:0.9081  ssim_diff:0.0141
+psnr_pre_gt:36.8955 psnr_data_gt:35.7022  psnr_diff:1.1933 ssim_pre_gt:0.9212 ssim_data_gt:0.9067  ssim_diff:0.0145
+ video_index: 1 psnr_pre_gt_ave:36.9109 psnr_data_gt_ave:35.6586  psnr_diff_ave:1.2523 ssim_pre_gt_ave:0.9230 ssim_data_gt_ave:0.9078 ssim_diff_ave:0.0152
+./Input_mask/label/BasketballPass_416_240
+
+psnr_pre_gt:34.8260 psnr_data_gt:33.4615  psnr_diff:1.3645 ssim_pre_gt:0.9222 ssim_data_gt:0.9015  ssim_diff:0.0206
+psnr_pre_gt:34.8267 psnr_data_gt:33.4772  psnr_diff:1.3495 ssim_pre_gt:0.9218 ssim_data_gt:0.9019  ssim_diff:0.0199
+psnr_pre_gt:34.7414 psnr_data_gt:33.4026  psnr_diff:1.3388 ssim_pre_gt:0.9200 ssim_data_gt:0.8999  ssim_diff:0.0202
+psnr_pre_gt:34.6914 psnr_data_gt:33.3399  psnr_diff:1.3516 ssim_pre_gt:0.9193 ssim_data_gt:0.8990  ssim_diff:0.0203
+psnr_pre_gt:34.6457 psnr_data_gt:33.2711  psnr_diff:1.3745 ssim_pre_gt:0.9196 ssim_data_gt:0.8989  ssim_diff:0.0207
+psnr_pre_gt:34.5619 psnr_data_gt:33.1912  psnr_diff:1.3708 ssim_pre_gt:0.9194 ssim_data_gt:0.8990  ssim_diff:0.0204
+psnr_pre_gt:34.6261 psnr_data_gt:33.2472  psnr_diff:1.3789 ssim_pre_gt:0.9207 ssim_data_gt:0.8993  ssim_diff:0.0214
+psnr_pre_gt:34.6720 psnr_data_gt:33.3046  psnr_diff:1.3674 ssim_pre_gt:0.9211 ssim_data_gt:0.9005  ssim_diff:0.0206
+psnr_pre_gt:34.6305 psnr_data_gt:33.2731  psnr_diff:1.3574 ssim_pre_gt:0.9204 ssim_data_gt:0.8991  ssim_diff:0.0214
+psnr_pre_gt:34.6744 psnr_data_gt:33.3259  psnr_diff:1.3485 ssim_pre_gt:0.9208 ssim_data_gt:0.8998  ssim_diff:0.0210
+psnr_pre_gt:34.6704 psnr_data_gt:33.3327  psnr_diff:1.3377 ssim_pre_gt:0.9214 ssim_data_gt:0.9008  ssim_diff:0.0206
+psnr_pre_gt:34.6353 psnr_data_gt:33.3143  psnr_diff:1.3211 ssim_pre_gt:0.9200 ssim_data_gt:0.8991  ssim_diff:0.0209
+psnr_pre_gt:34.6317 psnr_data_gt:33.3526  psnr_diff:1.2791 ssim_pre_gt:0.9201 ssim_data_gt:0.9000  ssim_diff:0.0202
+psnr_pre_gt:34.6200 psnr_data_gt:33.2860  psnr_diff:1.3340 ssim_pre_gt:0.9196 ssim_data_gt:0.8991  ssim_diff:0.0206
+psnr_pre_gt:34.6493 psnr_data_gt:33.3158  psnr_diff:1.3334 ssim_pre_gt:0.9202 ssim_data_gt:0.8997  ssim_diff:0.0205
+psnr_pre_gt:34.6816 psnr_data_gt:33.3328  psnr_diff:1.3488 ssim_pre_gt:0.9201 ssim_data_gt:0.8991  ssim_diff:0.0210
+psnr_pre_gt:34.6503 psnr_data_gt:33.2908  psnr_diff:1.3595 ssim_pre_gt:0.9200 ssim_data_gt:0.8985  ssim_diff:0.0215
+psnr_pre_gt:34.6933 psnr_data_gt:33.3510  psnr_diff:1.3423 ssim_pre_gt:0.9201 ssim_data_gt:0.8995  ssim_diff:0.0206
+psnr_pre_gt:34.6696 psnr_data_gt:33.3328  psnr_diff:1.3368 ssim_pre_gt:0.9193 ssim_data_gt:0.8978  ssim_diff:0.0215
+psnr_pre_gt:34.6651 psnr_data_gt:33.3089  psnr_diff:1.3561 ssim_pre_gt:0.9192 ssim_data_gt:0.8978  ssim_diff:0.0213
+ video_index: 2 psnr_pre_gt_ave:34.6731 psnr_data_gt_ave:33.3256  psnr_diff_ave:1.3475 ssim_pre_gt_ave:0.9203 ssim_data_gt_ave:0.8995 ssim_diff_ave:0.0208
+./Input_mask/label/BlowingBubbles_416_240
+
+psnr_pre_gt:35.5570 psnr_data_gt:34.0344  psnr_diff:1.5227 ssim_pre_gt:0.9435 ssim_data_gt:0.9242  ssim_diff:0.0194
+psnr_pre_gt:35.6242 psnr_data_gt:34.0483  psnr_diff:1.5760 ssim_pre_gt:0.9432 ssim_data_gt:0.9220  ssim_diff:0.0212
+psnr_pre_gt:35.6231 psnr_data_gt:34.0957  psnr_diff:1.5273 ssim_pre_gt:0.9428 ssim_data_gt:0.9228  ssim_diff:0.0200
+psnr_pre_gt:35.6836 psnr_data_gt:34.1494  psnr_diff:1.5342 ssim_pre_gt:0.9428 ssim_data_gt:0.9218  ssim_diff:0.0210
+psnr_pre_gt:35.6540 psnr_data_gt:34.1230  psnr_diff:1.5310 ssim_pre_gt:0.9422 ssim_data_gt:0.9221  ssim_diff:0.0202
+psnr_pre_gt:35.6505 psnr_data_gt:34.1486  psnr_diff:1.5019 ssim_pre_gt:0.9419 ssim_data_gt:0.9228  ssim_diff:0.0191
+psnr_pre_gt:35.6307 psnr_data_gt:34.0853  psnr_diff:1.5455 ssim_pre_gt:0.9420 ssim_data_gt:0.9213  ssim_diff:0.0207
+psnr_pre_gt:35.6047 psnr_data_gt:34.1494  psnr_diff:1.4553 ssim_pre_gt:0.9425 ssim_data_gt:0.9246  ssim_diff:0.0179
+psnr_pre_gt:35.5282 psnr_data_gt:34.1264  psnr_diff:1.4018 ssim_pre_gt:0.9417 ssim_data_gt:0.9233  ssim_diff:0.0184
+psnr_pre_gt:35.5408 psnr_data_gt:34.1129  psnr_diff:1.4279 ssim_pre_gt:0.9426 ssim_data_gt:0.9244  ssim_diff:0.0182
+psnr_pre_gt:35.6149 psnr_data_gt:34.1842  psnr_diff:1.4307 ssim_pre_gt:0.9426 ssim_data_gt:0.9248  ssim_diff:0.0178
+psnr_pre_gt:35.6072 psnr_data_gt:34.1494  psnr_diff:1.4579 ssim_pre_gt:0.9422 ssim_data_gt:0.9243  ssim_diff:0.0179
+psnr_pre_gt:35.6852 psnr_data_gt:34.1746  psnr_diff:1.5106 ssim_pre_gt:0.9438 ssim_data_gt:0.9261  ssim_diff:0.0177
+psnr_pre_gt:35.6944 psnr_data_gt:34.2525  psnr_diff:1.4419 ssim_pre_gt:0.9438 ssim_data_gt:0.9274  ssim_diff:0.0165
+psnr_pre_gt:35.7275 psnr_data_gt:34.2248  psnr_diff:1.5026 ssim_pre_gt:0.9443 ssim_data_gt:0.9276  ssim_diff:0.0168
+psnr_pre_gt:35.7914 psnr_data_gt:34.2390  psnr_diff:1.5525 ssim_pre_gt:0.9454 ssim_data_gt:0.9281  ssim_diff:0.0173
+psnr_pre_gt:35.8311 psnr_data_gt:34.3019  psnr_diff:1.5292 ssim_pre_gt:0.9455 ssim_data_gt:0.9290  ssim_diff:0.0165
+psnr_pre_gt:35.8706 psnr_data_gt:34.2997  psnr_diff:1.5709 ssim_pre_gt:0.9457 ssim_data_gt:0.9285  ssim_diff:0.0172
+psnr_pre_gt:35.8400 psnr_data_gt:34.3005  psnr_diff:1.5395 ssim_pre_gt:0.9452 ssim_data_gt:0.9284  ssim_diff:0.0168
+psnr_pre_gt:35.7766 psnr_data_gt:34.2470  psnr_diff:1.5297 ssim_pre_gt:0.9450 ssim_data_gt:0.9276  ssim_diff:0.0174
+ video_index: 3 psnr_pre_gt_ave:35.6768 psnr_data_gt_ave:34.1723  psnr_diff_ave:1.5045 ssim_pre_gt_ave:0.9434 ssim_data_gt_ave:0.9251 ssim_diff_ave:0.0184
+./Input_mask/label/RaceHorses_416_240
+
+ ave_psnr_pre_gt:35.5007 ave_psnr_data_gt:34.1034  psnr_diff_ave:1.3973 ave_ssim_pre_gt:0.9243 ave_ssim_data_gt:0.9081 ssim_diff_ave:0.0161
