@@ -34,12 +34,9 @@ def main():
     #     ])
 
     print("===> Loading datasets")
-    data_path1 = "../../../../../data/data2/CVPR/LD42/train_128_b8_LD42_CVPRH1.h5"
-    data_path2 = "../../../../../data/data2/CVPR/LD42/train_128_b8_LD42_CVPRHA1.h5"
-    data_path3 = "../../../../../data/data2/CVPR/LD42/train_128_b8_LD42_CVPRHP1.h5"
-    #data_path1 = "./data/train_xx1.h5"
-    #data_path2 = "./data/train_xx2.h5"
-    #data_path3 = "./data/train_xx3.h5"
+    data_path1 = "./data/train_xx1.h5"
+    data_path2 = "./data/train_xx2.h5"
+    data_path3 = "./data/train_xx3.h5"
     train_set  = DatasetFromHdf5_3_data(data_root_1= data_path1,data_root_2=data_path2,data_root_3=data_path3)
 
     training_data_loader = DataLoader(dataset=train_set, num_workers=1, batch_size=opt.batch_size, shuffle=True,drop_last=True)
