@@ -13,9 +13,7 @@ The code was developed using Python 3.6 & PyTorch 0.4 & CUDA 8.0. There may be a
 
 
 
-
 ## Training
-
 
 
 
