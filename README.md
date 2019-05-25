@@ -41,8 +41,8 @@ $ Demo.sh
 * You can easily test the performance of the pretrained model under different configurations by modifying the test parameters in the `Demo` file.
 
 
-### Train and Data
-* training
+### Training
+* 
 
 ### Contact
 We are glad to hear if you have any suggestions and questions. 
