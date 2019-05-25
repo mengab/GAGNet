@@ -1,6 +1,7 @@
 # Guided Attention Generative Network for Quality Enhancement of Compressed Video
 
 ### Requirements and dependencies
+
 - [Pytorch 0.4.0](https://pytorch.org/)
 - [TensorboardX](https://github.com/lanpa/tensorboardX)
 - [FlowNet2-Pytorch](https://github.com/mengab/flownet2-pytorch)
@@ -19,8 +20,7 @@ Compile BiFlowNet dependencies (Channelnorm layers, Correlation and Resample2d):
 
 
 ## Code v1.0
-
-
+Currently, we release our research code for training and testing. It should produce the same results as in the paper under AI and LD configurations.
 
 
 ## Testing
