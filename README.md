@@ -23,7 +23,7 @@ Compile BiFlowNet dependencies (Channelnorm layers, Correlation and Resample2d):
 Currently, we release our research code for training and testing for two types of models with content loss and combined loss. They should produce the same results as the paper under LD and AI configurations, respectively.
 
 ### Testing
-* our input_mask data can be downloaded from this link!
+* our input_mask test data can be downloaded from this link!
 ```
 https://drive.google.com/drive/folders/
 ```
@@ -32,8 +32,14 @@ https://drive.google.com/drive/folders/
 * An example of test usage is shown as follows:
 ```bash 
 $ cd ./GAGNet-master
-$Demo.sh
+$ Demo.sh
 ```
+**Note:** Please make sure the dependencies are complied successfully. 
+
+We provide two types of testing for different encoding modes in the shell file, you can comment one mode to test another. 
+
+
+
 
 ### Train and Data
 * training
