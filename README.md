@@ -36,9 +36,9 @@ $ Demo.sh
 ```
 **Note:** 
 * Please make sure the dependencies are complied successfully. 
-* We provide two types of testing for different coding configuration in the `Demo` file, you can comment one mode to test another. 
+* We provide two types of testing for different coding configuration in the `Demo.sh` file, you can comment one mode to test another. 
 * For each coding configuration, we offer two pretrained models for the model with content loss and combined loss, respectively. 
-* You can easily test the performance of the pretrained model under different configurations by modifying the test parameters in the `Demo` file.
+* You can easily test the performance of the pretrained model under different configurations by modifying the test parameters in the `Demo.sh` file.
 
 
 ### Training
@@ -49,10 +49,9 @@ $ cd ./GAGNet-master
 $ python train.py --GPUs “xxx”
 ```
 
-* We have provided the useful parameters in the `option` file, and specified all the default parameters in `train.py`. 
+* We have provided some optional parameters in the `option.py` file, and specified all the default parameters in `train.py`. 
 * We recommend that you read our `train.py ` and `option.py ` files carefully before training the model. 
-* If you want to train the model in the ablation study, you can choose to disable the corresponding parameter in the `train.py ` file. 
-
+* If you want to train the network models in those ablation studies, you can choose to disable the corresponding parameters in the `train.py ` file. 
 
 ### Contact
 We are glad to hear if you have any suggestions and questions. 
