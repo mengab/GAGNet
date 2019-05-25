@@ -19,17 +19,17 @@ Compile BiFlowNet dependencies (Channelnorm layers, Correlation and Resample2d):
     ./install.sh
 
 
-## Code v1.0
+### Code
 Currently, we release our research codes for training and testing. It should produce the same results as in the paper for the models with content loss and combined loss,  under LD and AI configurations, respectively.
 
-## Testing
+### Testing
 
 
 
-## Training
+### Training
 
 
 
-## Contact
+### Contact
 We are glad to hear if you have any suggestions and questions. 
 Please send email to xmengab@connect.ust.hk
