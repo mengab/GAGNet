@@ -20,15 +20,23 @@ Compile BiFlowNet dependencies (Channelnorm layers, Correlation and Resample2d):
 
 
 ### Code
-Currently, we release our research code for training and testing for two types of models with content loss and combined loss. It should produce the same results as the paper under LD and AI configurations, respectively.
+Currently, we release our research code for training and testing for two types of models with content loss and combined loss. They should produce the same results as the paper under LD and AI configurations, respectively.
 
 ### Testing
+* our input_mask data can be downloaded from this link!
+```
+https://drive.google.com/drive/folders/
+```
 
+* It would be very easy to understand the test function and test on your own data.
+* An example of test usage is shown as follows:
+```bash 
+$ cd ./GAGNet-master
+$Demo.sh
+```
 
-
-### Training
-
-
+### Train and Data
+* training
 
 ### Contact
 We are glad to hear if you have any suggestions and questions. 
