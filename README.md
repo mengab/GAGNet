@@ -51,7 +51,7 @@ $ python train.py --GPUs “xxx”
 
 * We have provided some optional parameters in the `option.py` file, and specified all the default parameters in `train.py`. 
 * We recommend that you read our `train.py ` and `option.py ` files carefully before training the model. 
-* If you want to train the network models in those ablation studies, you can choose to disable the corresponding parameters in the `train.py ` file. 
+* If you want to train the network model in the ablation study, you can choose to disable the corresponding parameter in the `option.py ` file. 
 
 ### Contact
 We are glad to hear if you have any suggestions and questions. 
