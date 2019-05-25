@@ -38,7 +38,7 @@ $ python train.py --GPUs “xxx”
 ### Testing
 * our input_mask test data can be downloaded from this link!
 ```
-https://drive.google.com/drive/folders/
+https://drive.google.com/file/d/1h63sXhkv-BqrwtV9m_SfgB8xUkuG90aU/view?usp=sharing
 ```
 
 * It would be very easy to understand the test function and test on your own data.
