@@ -36,9 +36,9 @@ $ Demo.sh
 ```
 **Note:** Please make sure the dependencies are complied successfully. 
 
-We provide two types of testing for different encoding modes in the shell file, you can comment one mode to test another. 
-
-
+We provide two types of testing for different coding configuration in the shell file, you can comment one mode to test another. 
+For each coding configuration, we offer two pretrained models for the model with content loss and combined loss, respectively. You can 
+easily test the performance of the pretrained model under different configurations by modifying the test parameters in the `Demo` file.
 
 
 ### Train and Data
