@@ -42,7 +42,16 @@ $ Demo.sh
 
 
 ### Training
-* 
+
+Train a new model:
+```bash
+python train.py --GPUs “xxx”
+```
+
+* We have provided the useful parameters in the `option` file, and specified all the default parameters in `train.py`. 
+* We recommend that you read our `train.py ` and `option.py ` files carefully before training the model. 
+* If you want to train the model in the ablation study, you can choose to disable the corresponding parameter in the `train.py ` file. 
+
 
 ### Contact
 We are glad to hear if you have any suggestions and questions. 
