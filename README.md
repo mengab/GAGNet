@@ -45,7 +45,8 @@ $ Demo.sh
 
 Train a new model:
 ```bash
-python train.py --GPUs “xxx”
+$ cd ./GAGNet-master
+$ python train.py --GPUs “xxx”
 ```
 
 * We have provided the useful parameters in the `option` file, and specified all the default parameters in `train.py`. 
