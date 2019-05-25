@@ -20,7 +20,7 @@ Compile BiFlowNet dependencies (Channelnorm layers, Correlation and Resample2d):
 
 
 ### Code
-Currently, we release our research codes for training and testing. It should produce the same results as in the paper for the models with content loss and combined loss,  under LD and AI configurations, respectively.
+Currently, we release our research code for training and testing for two types of models with content loss and combined loss. It should produce the same results as the paper under LD and AI configurations, respectively.
 
 ### Testing
 
