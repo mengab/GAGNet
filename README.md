@@ -8,6 +8,16 @@
 
 The code was developed using Python 3.6 & PyTorch 0.4 & CUDA 8.0 on Ubuntu 16.04. There may be a problem related to software versions. To fix the problem, you may look at the implementation in GAGNet files and replace the syntax to match the new PyTorch environment.
 
+### Installation
+Download repository:
+
+    git clone https://github.com/mengab/GAGNet.git
+
+Compile BiFlowNet dependencies (Channelnorm layers, Correlation and Resample2d):
+
+    ./install.sh
+
+
 ## Code v1.0
 
 
